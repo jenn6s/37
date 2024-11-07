@@ -44,10 +44,14 @@ while firstnumber < lastnumber:
     
 #  a short function listing a fun fact i might want to know about the problem above given the answer
 
+# This functions print out a message
 def howmanytimesthisnumberisrepeated():
     print('53 can be repeated 17 times in that sequence')
+    
+# This functions print out a message
 def addtionalinformation():
     print('17 is also a factor of 53 and 901')
+    
 howmanytimesthisnumberisrepeated()
 addtionalinformation()
 
