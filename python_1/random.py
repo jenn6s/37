@@ -1,4 +1,4 @@
-
+# these are the 
 def equations(vars):
     x, y = vars
     eq1 = x + y - 10  # Example equation 1
